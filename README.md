@@ -7,7 +7,3 @@ Currentry, only receive ldps is supported.
 - [ ] Usage, Example, Documentation
 - [ ] Websocket
 - [ ] More useful
-
-## Get Involved
-It’s all Apache 2.0 licensed.
-Check out our Git repository and feel free to post patches.
