@@ -1,11 +1,10 @@
-# Copyright (C) 2013,2014 Nippon Telegraph and Telephone Corporation.
-# Copyright (C) 2013,2014 YAMAMOTO Takashi <yamamoto at valinux co jp>
+# Copyright (C) 2014 Kiyonari Harigae <lakshmi at cloudysunny14 org>
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
 # You may obtain a copy of the License at
 #
-#    http://www.apache.org/licenses/LICENSE-2.0
+# http://www.apache.org/licenses/LICENSE-2.0
 #
 # Unless required by applicable law or agreed to in writing, software
 # distributed under the License is distributed on an "AS IS" BASIS,
